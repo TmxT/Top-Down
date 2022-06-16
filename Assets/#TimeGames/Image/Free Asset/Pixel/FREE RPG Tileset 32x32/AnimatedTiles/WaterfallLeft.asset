@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 884da3696b058ae45bf6276f4102c031, type: 3}
+  m_Name: WaterfallLeft
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 7572582702338438916, guid: 046ae6f10f1f7ff4091e792ba2e3cc36, type: 3}
+  - {fileID: -8384656560972019749, guid: fb74058bd54754b41a640102003d8744, type: 3}
+  m_MinSpeed: 3
+  m_MaxSpeed: 3
+  m_AnimationStartTime: 1
+  m_TileColliderType: 0

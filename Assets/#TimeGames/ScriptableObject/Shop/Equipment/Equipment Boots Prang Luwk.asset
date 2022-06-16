@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 888e31b88e951b44e812688f2e4c4437, type: 3}
+  m_Name: Equipment Boots Prang Luwk
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  itemName: Prang Luwk
+  desc: 
+  price: 57
+  maxQty: 5
+  ATK: 41
+  AGI: 57
+  INT: 48
+  DEF: 41
+  VIT: 48
+  DEX: 47
+  LUK: 42
+  HP: 0
+  MP: 0
+  type: 3
+  rank: 2
+  maxStrength: 541

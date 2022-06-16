@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 888e31b88e951b44e812688f2e4c4437, type: 3}
+  m_Name: Equipment Weapon Surikh Baltor
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  itemName: Surikh Baltor
+  desc: 
+  price: 36
+  maxQty: 7
+  ATK: 26
+  AGI: 34
+  INT: 20
+  DEF: 25
+  VIT: 23
+  DEX: 21
+  LUK: 20
+  HP: 0
+  MP: 0
+  type: 0
+  rank: 3
+  maxStrength: 219

@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Zombie_1
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 81e6e9cc49720774cab9dc438dace00a, type: 3}
+    - {fileID: 2800000, guid: 2239929a5299ab54caf33d8c14f150ad, type: 3}
+    - {fileID: 2800000, guid: b29bc4dbceb18c149864ee7320931cad, type: 3}
+    - {fileID: 2800000, guid: 99301f109aa5605468370d850b54bde0, type: 3}
+    - {fileID: 2800000, guid: 3f89192be4bff7a49be747fc8d2f342c, type: 3}
+    - {fileID: 2800000, guid: 1f55b050d76882e46bd660242aa0a1d1, type: 3}
+    - {fileID: 2800000, guid: f1c1c7ba9c7c96447b762fba897f74e8, type: 3}
+    - {fileID: 2800000, guid: 280c8963039499b4e881dd277f8183f8, type: 3}
+    - {fileID: 2800000, guid: 2a41a8d7799ac3349a68d6a2bf0d4af7, type: 3}
+    - {fileID: 2800000, guid: f0f16f21b05552f49a9f498bddc814f7, type: 3}
+    - {fileID: 2800000, guid: 5a6753bbf7914be469a10054b3af35e6, type: 3}
+    - {fileID: 2800000, guid: 430fc0dbef0ab5b49bc21f2b8f46f793, type: 3}
+    - {fileID: 2800000, guid: 5b70caf9cc35a7644afaafe9478fbbba, type: 3}
+    - {fileID: 2800000, guid: 0531cfbc59790594fbcd32f84c5295f2, type: 3}
+    - {fileID: 2800000, guid: 891dacda763e0f64d83cc610f813263e, type: 3}
+    - {fileID: 2800000, guid: 162c8365f6918ca45a5071796fa3f025, type: 3}
+    - {fileID: 2800000, guid: 171eb2a7feee4e74a9bfb0f53c6f02df, type: 3}
+    - {fileID: 2800000, guid: f7c323e0b56747c41ac4ce7e3f7c61ef, type: 3}
+    - {fileID: 2800000, guid: b3b6492b038c47445bcd3850a92595c7, type: 3}
+    - {fileID: 2800000, guid: 067aea01ba735ba469fe4974787f0e3c, type: 3}
+    - {fileID: 2800000, guid: 7ef9770ae2c970d44a0dfe8c75efa986, type: 3}
+    - {fileID: 2800000, guid: c2631d8d9f3683943b9678f0d5811d9c, type: 3}
+    - {fileID: 2800000, guid: 0d7fff14b5983ee42b484fbe05c509a4, type: 3}
+    - {fileID: 2800000, guid: 63ebcfd507bf6c149a81c1fa02047857, type: 3}
+    - {fileID: 2800000, guid: baeddca0c9f41204da97865195deec0c, type: 3}
+    - {fileID: 2800000, guid: 9dedb0f2e1097cc4f9593b8015daa497, type: 3}
+    - {fileID: 2800000, guid: edfab70e46be2c1438240d5fb45b2385, type: 3}
+    - {fileID: 2800000, guid: 07cd31770718952489d9fc9b06747551, type: 3}
+    - {fileID: 2800000, guid: 80d83e4b2e4973449a3da0590e7fe15f, type: 3}
+    - {fileID: 2800000, guid: c9d1881dc69e7964f91079aafa8131cc, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 99301f109aa5605468370d850b54bde0, type: 3}
+  - {fileID: 21300000, guid: 1f55b050d76882e46bd660242aa0a1d1, type: 3}
+  - {fileID: 21300000, guid: baeddca0c9f41204da97865195deec0c, type: 3}
+  - {fileID: 21300000, guid: f7c323e0b56747c41ac4ce7e3f7c61ef, type: 3}
+  - {fileID: 21300000, guid: 067aea01ba735ba469fe4974787f0e3c, type: 3}
+  - {fileID: 21300000, guid: f0f16f21b05552f49a9f498bddc814f7, type: 3}
+  - {fileID: 21300000, guid: 9dedb0f2e1097cc4f9593b8015daa497, type: 3}
+  - {fileID: 21300000, guid: 280c8963039499b4e881dd277f8183f8, type: 3}
+  - {fileID: 21300000, guid: 0d7fff14b5983ee42b484fbe05c509a4, type: 3}
+  - {fileID: 21300000, guid: 162c8365f6918ca45a5071796fa3f025, type: 3}
+  - {fileID: 21300000, guid: 63ebcfd507bf6c149a81c1fa02047857, type: 3}
+  - {fileID: 21300000, guid: 07cd31770718952489d9fc9b06747551, type: 3}
+  - {fileID: 21300000, guid: 171eb2a7feee4e74a9bfb0f53c6f02df, type: 3}
+  - {fileID: 21300000, guid: 2a41a8d7799ac3349a68d6a2bf0d4af7, type: 3}
+  - {fileID: 21300000, guid: 5b70caf9cc35a7644afaafe9478fbbba, type: 3}
+  - {fileID: 21300000, guid: 7ef9770ae2c970d44a0dfe8c75efa986, type: 3}
+  - {fileID: 21300000, guid: 2239929a5299ab54caf33d8c14f150ad, type: 3}
+  - {fileID: 21300000, guid: f1c1c7ba9c7c96447b762fba897f74e8, type: 3}
+  - {fileID: 21300000, guid: 891dacda763e0f64d83cc610f813263e, type: 3}
+  - {fileID: 21300000, guid: 3f89192be4bff7a49be747fc8d2f342c, type: 3}
+  - {fileID: 21300000, guid: b3b6492b038c47445bcd3850a92595c7, type: 3}
+  - {fileID: 21300000, guid: 80d83e4b2e4973449a3da0590e7fe15f, type: 3}
+  - {fileID: 21300000, guid: 5a6753bbf7914be469a10054b3af35e6, type: 3}
+  - {fileID: 21300000, guid: 430fc0dbef0ab5b49bc21f2b8f46f793, type: 3}
+  - {fileID: 21300000, guid: b29bc4dbceb18c149864ee7320931cad, type: 3}
+  - {fileID: 21300000, guid: 0531cfbc59790594fbcd32f84c5295f2, type: 3}
+  - {fileID: 21300000, guid: 81e6e9cc49720774cab9dc438dace00a, type: 3}
+  - {fileID: -5798503344526363561, guid: c9d1881dc69e7964f91079aafa8131cc, type: 3}
+  - {fileID: 21300000, guid: c2631d8d9f3683943b9678f0d5811d9c, type: 3}
+  - {fileID: 21300000, guid: edfab70e46be2c1438240d5fb45b2385, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Zombie1_Attack1 (4)
+  - Zombie1_Attack1 (6)
+  - Zombie1_Run5 (2)
+  - Zombie1_Hurt1 (4)
+  - Zombie1_Idle1 (1)
+  - Zombie1_Dead1 (4)
+  - Zombie1_Run5 (3)
+  - Zombie1_Dead1 (2)
+  - Zombie1_Idle1 (4)
+  - Zombie1_Hurt1 (2)
+  - Zombie1_Run5 (1)
+  - Zombie1_Run5 (5)
+  - Zombie1_Hurt1 (3)
+  - Zombie1_Dead1 (3)
+  - Zombie1_Dead1 (7)
+  - Zombie1_Idle1 (2)
+  - Zombie1_Attack1 (2)
+  - Zombie1_Dead1 (1)
+  - Zombie1_Hurt1 (1)
+  - Zombie1_Attack1 (5)
+  - Zombie1_Hurt1 (5)
+  - Zombie1_Run5 (6)
+  - Zombie1_Dead1 (5)
+  - Zombie1_Dead1 (6)
+  - Zombie1_Attack1 (3)
+  - Zombie1_Dead1 (8)
+  - Zombie1_Attack1 (1)
+  - Zombie1_PROFILE_0
+  - Zombie1_Idle1 (3)
+  - Zombie1_Run5 (4)
+  m_RenderDataMap: {}
+  m_Tag: Zombie_1
+  m_IsVariant: 0

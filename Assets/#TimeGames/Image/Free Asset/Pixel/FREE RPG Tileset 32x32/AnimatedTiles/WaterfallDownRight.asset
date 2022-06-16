@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 884da3696b058ae45bf6276f4102c031, type: 3}
+  m_Name: WaterfallDownRight
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -2666988574344367546, guid: 046ae6f10f1f7ff4091e792ba2e3cc36, type: 3}
+  - {fileID: 6168133654722307173, guid: fb74058bd54754b41a640102003d8744, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0

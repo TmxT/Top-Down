@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 888e31b88e951b44e812688f2e4c4437, type: 3}
+  m_Name: Equipment Helmet Chandaong
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  itemName: Chandaong
+  desc: 
+  price: 81
+  maxQty: 1
+  ATK: 92
+  AGI: 93
+  INT: 85
+  DEF: 96
+  VIT: 88
+  DEX: 91
+  LUK: 95
+  HP: 0
+  MP: 0
+  type: 1
+  rank: 0
+  maxStrength: 903

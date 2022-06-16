@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Zombie_3
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 913f8926cb5dd5340bc88686ded07932, type: 3}
+    - {fileID: 2800000, guid: 3898783700deda14a887ee7f500801fd, type: 3}
+    - {fileID: 2800000, guid: 2de1dbdf84a1a784bb31cd98be377c6f, type: 3}
+    - {fileID: 2800000, guid: e9eb212ec6eba974d849fe21bc539041, type: 3}
+    - {fileID: 2800000, guid: 9ccbbb47dc97c9f4eaf10808ac503b84, type: 3}
+    - {fileID: 2800000, guid: 3d43a0f9eb87758418215775fe1a5782, type: 3}
+    - {fileID: 2800000, guid: 52fb831084891a142a9ab58de288f194, type: 3}
+    - {fileID: 2800000, guid: f429c6f1afb42d142b6768cca229a0e2, type: 3}
+    - {fileID: 2800000, guid: db98d1de860fe2b4bb70a479e3c0b9e5, type: 3}
+    - {fileID: 2800000, guid: e11f5727327a1cd44812240724661ef2, type: 3}
+    - {fileID: 2800000, guid: f1d9267f76d7e8644a35aa9598db2470, type: 3}
+    - {fileID: 2800000, guid: 91a9814e2ec923f42a50e2b8dfcfeb94, type: 3}
+    - {fileID: 2800000, guid: 7d94bfdeec5245348853c37f8a03f456, type: 3}
+    - {fileID: 2800000, guid: dbb5d4516ea725d4b9a964bf6a39a4cc, type: 3}
+    - {fileID: 2800000, guid: f0cfcb5a39848cf48bf6097a2880745e, type: 3}
+    - {fileID: 2800000, guid: c664daf04e3322c49b487604ac67a4c5, type: 3}
+    - {fileID: 2800000, guid: dc4b7ff0a379ead40b5eeb7013705292, type: 3}
+    - {fileID: 2800000, guid: c5345c951eeebba4a8a71c2f425126d2, type: 3}
+    - {fileID: 2800000, guid: ffdb7158b9467a0488484611b2d8c057, type: 3}
+    - {fileID: 2800000, guid: 8e74bcfd0c817e741808b93c7d5ab656, type: 3}
+    - {fileID: 2800000, guid: 8a8e07681a9bf9b40a469a5316035894, type: 3}
+    - {fileID: 2800000, guid: 791ae489a8885514c9e11b6a1e4ee04f, type: 3}
+    - {fileID: 2800000, guid: e365cfd3fa72cff49aace1de528d3313, type: 3}
+    - {fileID: 2800000, guid: 6ffe3269729dff746ab4c4e8c524de17, type: 3}
+    - {fileID: 2800000, guid: 2ccc3b9baad56a043b6ca094faaf6bf1, type: 3}
+    - {fileID: 2800000, guid: 4a8997f81bd85ad439026ca983de6ecd, type: 3}
+    - {fileID: 2800000, guid: 599ad4218f8cd5b48883f002b9d3f08e, type: 3}
+    - {fileID: 2800000, guid: 05184bd93c6145744b496384a1f0ca38, type: 3}
+    - {fileID: 2800000, guid: cdd0489c6b7f86c44a296dd007fa920a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 52fb831084891a142a9ab58de288f194, type: 3}
+  - {fileID: 21300000, guid: c664daf04e3322c49b487604ac67a4c5, type: 3}
+  - {fileID: 21300000, guid: dc4b7ff0a379ead40b5eeb7013705292, type: 3}
+  - {fileID: 21300000, guid: 599ad4218f8cd5b48883f002b9d3f08e, type: 3}
+  - {fileID: 21300000, guid: dbb5d4516ea725d4b9a964bf6a39a4cc, type: 3}
+  - {fileID: 21300000, guid: f429c6f1afb42d142b6768cca229a0e2, type: 3}
+  - {fileID: 21300000, guid: e365cfd3fa72cff49aace1de528d3313, type: 3}
+  - {fileID: 21300000, guid: c5345c951eeebba4a8a71c2f425126d2, type: 3}
+  - {fileID: 21300000, guid: 913f8926cb5dd5340bc88686ded07932, type: 3}
+  - {fileID: 21300000, guid: e11f5727327a1cd44812240724661ef2, type: 3}
+  - {fileID: 21300000, guid: 3898783700deda14a887ee7f500801fd, type: 3}
+  - {fileID: 21300000, guid: 9ccbbb47dc97c9f4eaf10808ac503b84, type: 3}
+  - {fileID: 21300000, guid: ffdb7158b9467a0488484611b2d8c057, type: 3}
+  - {fileID: 21300000, guid: 8a8e07681a9bf9b40a469a5316035894, type: 3}
+  - {fileID: 21300000, guid: 4a8997f81bd85ad439026ca983de6ecd, type: 3}
+  - {fileID: 21300000, guid: 6ffe3269729dff746ab4c4e8c524de17, type: 3}
+  - {fileID: 21300000, guid: 791ae489a8885514c9e11b6a1e4ee04f, type: 3}
+  - {fileID: 21300000, guid: 05184bd93c6145744b496384a1f0ca38, type: 3}
+  - {fileID: 21300000, guid: 3d43a0f9eb87758418215775fe1a5782, type: 3}
+  - {fileID: 21300000, guid: f0cfcb5a39848cf48bf6097a2880745e, type: 3}
+  - {fileID: 21300000, guid: 2ccc3b9baad56a043b6ca094faaf6bf1, type: 3}
+  - {fileID: -3052487785294425247, guid: cdd0489c6b7f86c44a296dd007fa920a, type: 3}
+  - {fileID: 21300000, guid: 8e74bcfd0c817e741808b93c7d5ab656, type: 3}
+  - {fileID: 21300000, guid: e9eb212ec6eba974d849fe21bc539041, type: 3}
+  - {fileID: 21300000, guid: 91a9814e2ec923f42a50e2b8dfcfeb94, type: 3}
+  - {fileID: 21300000, guid: db98d1de860fe2b4bb70a479e3c0b9e5, type: 3}
+  - {fileID: 21300000, guid: 7d94bfdeec5245348853c37f8a03f456, type: 3}
+  - {fileID: 21300000, guid: f1d9267f76d7e8644a35aa9598db2470, type: 3}
+  - {fileID: 21300000, guid: 2de1dbdf84a1a784bb31cd98be377c6f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Zombie3_Dead1 (1)
+  - Zombie3_Hurt1 (2)
+  - Zombie3_Hurt1 (3)
+  - Zombie3_Run4 (4)
+  - Zombie3_Dead1 (8)
+  - Zombie3_Dead1 (2)
+  - Zombie3_Idle1 (4)
+  - Zombie3_Hurt1 (4)
+  - Zombie3_Attack1 (1)
+  - Zombie3_Dead1 (4)
+  - Zombie3_Attack1 (2)
+  - Zombie3_Attack1 (5)
+  - Zombie3_Hurt1 (5)
+  - Zombie3_Idle1 (2)
+  - Zombie3_Run4 (3)
+  - Zombie3_Run4 (1)
+  - Zombie3_Idle1 (3)
+  - Zombie3_Run4 (5)
+  - Zombie3_Attack1 (6)
+  - Zombie3_Hurt1 (1)
+  - Zombie3_Run4 (2)
+  - Zombie3_PROFILE_0
+  - Zombie3_Idle1 (1)
+  - Zombie3_Attack1 (4)
+  - Zombie3_Dead1 (6)
+  - Zombie3_Dead1 (3)
+  - Zombie3_Dead1 (7)
+  - Zombie3_Dead1 (5)
+  - Zombie3_Attack1 (3)
+  m_RenderDataMap: {}
+  m_Tag: Zombie_3
+  m_IsVariant: 0

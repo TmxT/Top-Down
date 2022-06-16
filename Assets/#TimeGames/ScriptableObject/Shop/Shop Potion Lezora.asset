@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25edf586cf29c5348a2274049fde6cf4, type: 3}
+  m_Name: Shop Potion Lezora
+  m_EditorClassIdentifier: 
+  shopName: Lezora Potion
+  sortType: 1
+  listFood: []
+  listPotion:
+  - {fileID: 11400000, guid: 6edf7ce93f715d34aa9de5910f6d40a3, type: 2}
+  - {fileID: 11400000, guid: 372a19df2b3ddbc40b538952af5b523e, type: 2}
+  - {fileID: 11400000, guid: 36342d26e53734b44aaede1e8af12005, type: 2}
+  - {fileID: 11400000, guid: 9e6829c52b75dce4eb6a85cbcea2f852, type: 2}
+  - {fileID: 11400000, guid: 2bebbdffe666c9f4b8674a800e8b7734, type: 2}
+  - {fileID: 11400000, guid: c130a00666913e242956f53b954ee368, type: 2}
+  listEquipment: []

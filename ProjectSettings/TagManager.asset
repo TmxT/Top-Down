@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Props
+  - SignTrigger
+  - Zombie
+  - Villager
+  - Seller
+  - DontDestroyOnLoad
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Maps
+  - Maps-Base
+  - Maps-Gate
+  - Maps-Obstacle
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 780447173
+    locked: 0
+  - name: Back Wall
+    uniqueID: 4006001259
+    locked: 0
+  - name: Back Property
+    uniqueID: 4179655759
+    locked: 0
+  - name: Character
+    uniqueID: 272904173
+    locked: 0
+  - name: Front Wall
+    uniqueID: 3370100221
+    locked: 0
+  - name: Front Property
+    uniqueID: 1394834483
+    locked: 0
+  - name: UI
+    uniqueID: 1301278049
+    locked: 0
